@@ -1,6 +1,6 @@
 ---
 title: "My First Report"
-author: "Your Name"
+author: "Vincy Huang"
 format:
   html:
     embed-resources: true
@@ -14,6 +14,21 @@ runs the code below and builds a finished HTML page.
 
 Try it now: change `author: "Your Name"` in the header above to your own name,
 then click **Render**.
+
+## My Notes
+I learned that we can determine whether a dataset is trustworthy by laying out the data's detailed:
+- provenance
+- stewardship
+- privacy and security (including responsible AI use)
+- Indegenous data sovereignty
+- data formats
+-  KT framing
+All of these could be done all at once by completing a (**Data Intake Card**)[https://ehsanx.github.io/HDSx/weeks/week01-health-data-ethics/activity-data-intake-card.html].
+
+### Add one small R calculation
+```{r}
+6 + 7
+```
 
 ## A first look at the data
 
